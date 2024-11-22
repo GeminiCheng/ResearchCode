@@ -11,3 +11,7 @@ The code consists of three parts：
 3. UEE_evaluation: Evaluation file, used to evaluate the results of S3G based superpixel segmentation. The indicator used is UEE.
 
 ### Other information
+The second stage semantic segmentation in the paper is based on the DeepLabV3+ algorithm (Open source acquisition), which adds superpixel segmentation results as an auxiliary and does not involve original innovation or improvement. 
+Therefore, it is inconvenient to upload it to this repository.
+
+This algorithm is a functional module used in relevant papers, and detailed content and functions can be found in the paper.
